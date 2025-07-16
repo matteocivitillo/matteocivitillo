@@ -38,7 +38,7 @@ AI-based platform for facilitating smart business collaboration.
 
 ### 🧘‍♀️ Yoga Website (Hypermedia Applications Project)  
 Yoga-themed website built for a university project, featuring multimedia content and interactive elements.  
-🔗 https://hypermedia-applications-rho.vercel.app/
+🔗 https://github.com/matteocivitillo/hypermedia_applications
 
 ### 🧠 Hololimb (XR for Rehabilitation)  
 XR app for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulating a virtual limb for patient therapy.  
