@@ -45,7 +45,8 @@ XR app for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulating a virt
 🔗 https://github.com/matteocivitillo/AUI-Hololimb
 
 ### 🏢 HR Consulting – SACE S.p.A.  
-Team project analyzing and improving employee engagement tools (Workday, Coursera) for the Italian export credit agency.  
+Team project analyzing and improving employee engagement tools (Workday, Coursera) for the Italian export credit agency.
+🔗 https://github.com/matteocivitillo/Digital-Business-Lab
 
 ---
 
