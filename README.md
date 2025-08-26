@@ -32,21 +32,21 @@ I also participated in international exchange programs in **Canada, Scotland, an
 
 ## 🧪 Projects
 
-### 🚀 SynergyAI *(pre-founding startup)*
-AI-based platform for facilitating smart business collaboration.  
-🔗 https://synergyai-startup.vercel.app/
+### 🚀 SynergyAI *(Pre-founding Startup)*  
+AI-based platform that facilitates and optimizes business collaboration through intelligent matchmaking.  
+🔗 [Project Link](https://synergyai-startup.vercel.app/)
 
-### 🧘‍♀️ Yoga Website (Hypermedia Applications Project)  
-Yoga-themed website built for a university project, featuring multimedia content and interactive elements.  
-🔗 https://github.com/matteocivitillo/hypermedia_applications
+### 🧘‍♀️ Yoga Website *(Hypermedia Applications Project)*  
+Yoga-themed website developed for a university project, featuring multimedia content and interactive features.  
+🔗 [GitHub Repository](https://github.com/matteocivitillo/hypermedia_applications)
 
-### 🧠 Hololimb (XR for Rehabilitation)  
-XR app for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulating a virtual limb for patient therapy.  
-🔗 https://github.com/matteocivitillo/AUI-Hololimb
+### 🧠 Hololimb *(XR for Rehabilitation)*  
+XR application for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulating a virtual limb for patient therapy.  
+🔗 [GitHub Repository](https://github.com/matteocivitillo/AUI-Hololimb)
 
-### 🏢 HR Consulting – SACE S.p.A.  
-Team project analyzing and improving employee engagement tools (Workday, Coursera) for the Italian export credit agency.
-🔗 https://github.com/matteocivitillo/Digital-Business-Lab
+### 🏢 HR Consulting – SACE S.p.A. *(Team Project)*  
+Analysis and consultancy project to improve employee engagement tools (Workday, Coursera) for the Italian export credit agency.  
+🔗 [GitHub Repository](https://github.com/matteocivitillo/Digital-Business-Lab)
 
 ---
 
