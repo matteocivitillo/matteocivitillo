@@ -48,6 +48,10 @@ XR application for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulatin
 Analysis and consultancy project to improve employee engagement tools (Workday, Coursera) for the Italian export credit agency.  
 🔗 [GitHub Repository](https://github.com/matteocivitillo/Digital-Business-Lab)
 
+### 🌐 CodingVirtualWorlds *(Virtual World Coding Project)*  
+Application for programming and simulating virtual worlds, mainly developed in C# and ShaderLab.  
+🔗 [GitHub Repository](https://github.com/matteocivitillo/CodingVirtualWorlds)
+
 ---
 
 Thanks for stopping by! Feel free to check out my projects or reach out if you’d like to collaborate.
