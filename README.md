@@ -16,8 +16,9 @@ I also participated in international exchange programs in **Canada, Scotland, an
 
 ## 💼 Experience & Activities
 
-- **Co-founder of SynergyAI** *(pre-founding startup)*:  
-  An AI-driven platform designed to optimize and facilitate business partnerships through intelligent matchmaking and opportunity discovery.
+
+- **Academic Research Contributor @ DEIB Milan**
+  In collaboration with Professors Matteo Camilli and Giovanni Quattrocchi (Politecnico di Milano), conducted research on safety guardrails for Large Language Models (LLMs), focusing on risk mitigation and responsible AI deployment
 
 - **Junior IT Associate @ BEST Milan**:  
   Website maintenance and digital infrastructure support for the student association.
