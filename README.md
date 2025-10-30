@@ -32,10 +32,6 @@ I also participated in international exchange programs in **Canada, Scotland, an
 
 ## 🧪 Projects
 
-### 🚀 SynergyAI *(Pre-founding Startup)*  
-AI-based platform that facilitates and optimizes business collaboration through intelligent matchmaking.  
-🔗 [Project Link](https://synergyai-startup.vercel.app/)
-
 ### 🧘‍♀️ Yoga Website *(Hypermedia Applications Project)*  
 Yoga-themed website developed for a university project, featuring multimedia content and interactive features.  
 🔗 [GitHub Repository](https://github.com/matteocivitillo/hypermedia_applications)
