@@ -52,7 +52,6 @@ Application for programming and simulating virtual worlds, mainly developed in C
 ### 🎨 Artendity (Art Discovery Web Application)
 
 Artendity is an interactive web application built with SvelteKit, designed to help users discover their personal “Art Identity” through a visual quiz.
-
 🔗 [GitHub Repository](https://github.com/matteocivitillo/artendity)
 
 ---
