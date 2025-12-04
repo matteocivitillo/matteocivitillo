@@ -49,6 +49,11 @@ Analysis and consultancy project to improve employee engagement tools (Workday, 
 Application for programming and simulating virtual worlds, mainly developed in C# and ShaderLab.  
 🔗 [GitHub Repository](https://github.com/matteocivitillo/CodingVirtualWorlds)
 
+### 🎨 Artendity (Art Discovery Web Application)
+
+Artendity is an interactive web application built with SvelteKit, designed to help users discover their personal “Art Identity” through a visual quiz.
+🔗 [GitHub Repository](https://github.com/matteocivitillo/artendity)
+
 ---
 
 Thanks for stopping by! Feel free to check out my projects or reach out if you’d like to collaborate.
