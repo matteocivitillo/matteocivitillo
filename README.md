@@ -35,7 +35,7 @@ I also participated in international exchange programs in **Canada, Scotland, an
 
 ### 🧘‍♀️ Yoga Website *(Hypermedia Applications Project)*  
 Yoga-themed website developed for a university project, featuring multimedia content and interactive features.  
-🔗 [GitHub Repository](https://github.com/matteocivitillo/hypermedia_applications)
+🔗 [GitHub Repository](https://github.com/matteocivitillo/Serendipity)
 
 ### 🧠 Hololimb *(XR for Rehabilitation)*  
 XR application for Meta Quest 3 aimed at reducing Phantom Limb Pain by simulating a virtual limb for patient therapy.  
